@@ -509,6 +509,6 @@ void loop() {
   display.print(" Temp : ");
   display.println(t,1);
   display.print(" Humid : ");
-  display.println(h,1);
-  display.display();
+//  display.println(h,1);
+//  display.display();
 }
